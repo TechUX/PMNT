@@ -37,7 +37,11 @@ Email : deveshkumarsingh75@gmail.com <br>
 Location : India
 
 ## Collabrators
-- Name ( name@domain.tld )
+- Anand Kumar ( anandsonuaman@gmail.com )
     - Contribution
-- Name ( name@domain.tld )
+- Shivam Kumar ( pspipara@gmail.com )
+    - Contribution
+- Shekhar Kumar ( shekharkr14th@gmail.com )
+    - Contribution
+- Paramjeet Kaur ( paramjeet121kaur@gmail.com )
     - Contribution
